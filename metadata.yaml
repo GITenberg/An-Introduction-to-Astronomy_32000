@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35681
     wikipedia: http://en.wikipedia.org/wiki/Forest_Ray_Moulton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32000#An-Introduction-to-Astronomy
 gutenberg_bookshelf: Astronomy
 gutenberg_issued: '2010-04-24'
 gutenberg_type: Text
